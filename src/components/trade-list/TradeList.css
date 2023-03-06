@@ -1,0 +1,8 @@
+.root {
+    margin: 20px auto;
+    max-width: 500px;
+}
+
+.tradeList > * + * {
+    margin-top: 20px;
+}
